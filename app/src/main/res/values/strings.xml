@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyKuya</string>
+    <string name="good_afternoon">Good Afternoon,</string>
+    <string name="account">Account</string>
+    <string name="news">News</string>
+    <string name="support">Support</string>
+    <string name="home">Home</string>
+    <string name="what_s_new">What\'s New</string>
+    <string name="collapseimage">CollapseImage</string>
+    <string name="food_delivery">Food Delivery</string>
+    <string name="myjobs">MyJobs</string>
+    <string name="how_to_use_the_app">How To Use The App</string>
+    <string name="sdkjdsfhkfkjsdfsgsg">sdkjdsfhkfkjsdfsgsg</string>
+    <string name="learn_more">Learn more</string>
+    <string name="tehran">Tehran</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="confirm">Confirm</string>
+
+</resources>
